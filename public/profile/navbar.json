@@ -1,8 +1,8 @@
 {
     "logo" : {
-        "source": "images/logo.png",
-        "height" : 45,
-        "width" : 50
+        "source": "images/logo2.png",
+        "height" : 70,
+        "width" : 220
     },
     "sections": [
         {
@@ -31,7 +31,7 @@
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1qXr-llhpXN5KPEvvhGJAACmZpanUY5DD/view?usp=sharing",
             "type": "link"
         }
     ]

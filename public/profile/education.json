@@ -1,19 +1,13 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "2010 - 2015",
+            "cardTitle": "Bachelor's Degree in Forestry",
+            "cardSubtitle":"Bogor Agricultural University",
+            "cardDetailedText": "GPA - 3.01",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/logo-ipb.png"
             }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
         }
     ]
 }

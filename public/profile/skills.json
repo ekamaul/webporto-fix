@@ -4,42 +4,65 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
+
+                
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
+                
+                
                 {
                     "icon": "images/skills/python.png",
                     "title": "Python"
                 },
+                
+                
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
                 }
+     
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },                
+                
+                {
+                    "icon": "images/skills/next.png",
+                    "title": "Nextjs"
+                },
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "Vuejs"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                                       
+                                                
+                {
+                    "icon": "images/skills/tailwind-css.png",
+                    "title": "Tailwind CSS"
+                },
+                
+                {
+                    "icon": "images/skills/rest-api.png",
+                    "title": "REST API"
                 }
             ]
         },
@@ -47,16 +70,29 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/arcgispro.png",
+                    "title": "ArcGIS Pro"
                 },
+                
+
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
+                
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/vscode.png",
+                    "title": "VSCode"
+                },
+                
+                
+                {
+                    "icon": "images/skills/windows.png",
+                    "title": "Windows"
+                },
+                {
+                    "icon": "images/skills/linux.png",
+                    "title": "Linux"
                 }
             ]
     }
